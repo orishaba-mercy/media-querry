@@ -197,8 +197,16 @@ font-size: 10px;
     display: flex;
     position: relative;
     bottom: 350px;
+    padding: 30% 
+    gap: 40%;
+    margin-left: 20%;
 
 
+}
+#house{
+    width: 90%;
+    height: 40vh;
+  
 }
 .rates{
     text-align: center;
