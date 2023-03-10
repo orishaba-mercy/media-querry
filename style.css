@@ -1,0 +1,279 @@
+@media screen and (max-width:2000px){
+    
+
+
+*body{
+ /* padding: 0px;  */
+ /* margin: 0px;  */
+
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+  
+}
+#col{
+    color: yellow;
+}
+#col2{
+    color:yellow ;
+}
+
+
+.food1{
+    /* display: flex; */
+    width: 70%;
+    height: 90vh;
+}
+   
+.chickenpic{
+    display: flex;
+    font-size: 20px;
+padding-bottom: -10% ;
+
+
+}
+#pic{
+    width: 60%;
+    height:65vh;
+}
+#button1{
+    background-color: rgb(219, 219, 100);
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+  border-color: none;
+
+}
+
+#but1{
+padding: 10px 20px;
+border-radius: 10px;
+background-color: yellowgreen;
+color:yellow;
+}
+.common {
+    text-align: center;
+    padding-bottom: 60%;
+    font-size: 10px;
+    
+    
+}
+.food2{
+    display: flex;
+    /* justify-content: space-around; */
+   margin-left: 20%;
+   gap: 10%;
+   /* padding-bottom: 50% 70%; */
+   position: relative;
+   bottom: 700px;
+   
+}
+
+#button5{
+    background-color: rgb(228, 228, 45);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 10px;
+  border-style: none;
+  font-size: 10px;
+
+}
+#pizza{
+    width: 70%;
+    height: 19vh;
+
+
+}
+#button7{
+background-color: rgb(228, 228, 45);
+color:white;
+padding: 10px 40px;
+border-radius: 10px;
+border-style: none;
+font-size: 10px;
+}
+
+#button6{
+    background-color: rgb(228, 228, 45);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 10px;
+  border-style: none;
+  font-size: 10px;
+
+}
+#button8{
+    background-color: rgb(228, 228, 45);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 10px;
+  border-style: none;
+  font-size: 10px;
+
+}
+
+
+.food3{
+   display: flex;
+   position: relative;
+   bottom: 500px;
+   background-color: beige;
+   
+
+}
+.f3{
+ padding-left:10% ;
+   
+
+}
+#button2{
+    background-color: rgb(219, 219, 100);
+    color: aliceblue;
+    padding: 7px 10px;
+    border-radius: 10px;
+  border-style: none;
+
+}
+#chkn{ 
+    width: 80%;
+    height:55vh;
+    margin-left: 20%;
+    background-color: bisque;
+
+}
+#button3{
+    background-color: rgb(228, 228, 45);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 10px;
+  border-style: none;
+  font-size: 20px;
+
+}
+.foo4{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    bottom: 420px;
+}
+.food4{
+    display: flex;
+    position: relative;
+    bottom: 360px;
+    padding: 50px 80px;
+    gap: 150px;
+    margin-left: 50px;
+
+}
+
+
+.f5{
+    font-size: 10px;
+}
+#image{
+    width: 70%;
+    height: 20vh;
+
+}
+.f6{
+    font-size: 10px;
+   
+}
+.f7{
+    font-size: 10px;
+}
+.serv{
+    text-align: center;
+    position: relative;
+    bottom: 350px;
+}
+.icons{
+    display: flex;
+    position: relative;
+    bottom: 350px;
+
+
+}
+.rates{
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+    background-color: aliceblue;
+}
+.Online{
+     display: flex; 
+     position: relative;
+     bottom: 250px;
+}
+.order{
+    /* display: flex; */
+    font-size: 20px;
+    position: relative;
+    bottom: 80%;
+}
+.phone{
+    height: 50vh; 
+    width: 400px; 
+    padding-bottom: 30%;
+}
+
+#button4{
+    background-color: rgb(228, 228, 45);
+    color:white;
+    padding: 10px 20px;
+    border-radius: 10px;
+  border-color: none;
+  font-size: 20px;
+
+}
+.subscribe{
+   background-color: antiquewhite;
+   display: flex;
+}
+.lowerbutton input{
+    width: 300px;
+    height: 50px;
+ 
+}
+.lastbutton{
+    
+    background-color: rgb(224, 224, 129);
+    position:relative;
+    
+}
+
+.footer{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: #212529;
+    color: white;
+   
+}
+#email{
+    position: relative;
+    bottom: 300px;
+    margin-bottom: 0%;
+}
+#span{
+
+}
+.lastcopy{ 
+   display: flex;
+   justify-content: space-between;
+   padding: 10px 15px;
+   background-color: rgb(141, 141, 56);
+   color: white;
+   font-size: 20px;
+ 
+}
+
+
+
+}
